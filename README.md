@@ -1,1 +1,3 @@
-# Mini_search_engine
+This python notebook repo has code for a mini search engine. This involves some pre-processing like tokenization, case conversion, stop word removal and stemming. Refer to the below repo for converting the given corpus into boolean representation:
+https://github.com/iamharshbit/Boolean_Representation_using_NLTK
+There are various document similarity indexes like TF(term frequency) and they have some drawbacks as well. The most famous is TfIdf and the notebook has implementation for it.
